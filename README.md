@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedTarek-CMD
 - 👀 I’m interested in Programming Languages and Web Design
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning ASP.Net Core
 - 📫 You can contact with me on +201029645794
 - 🖇️ Linkedin : https://www.linkedin.com/in/ahmed-tarek-a06341322/
