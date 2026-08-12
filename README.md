@@ -23,42 +23,11 @@ I enjoy turning ideas into clean, functional applications and continuously learn
 
 ### Backend
 
-`C#` `.NET` `ASP.NET Core Web API` `Entity Framework Core` `REST APIs` `JWT Authentication`
-
-### Database
-
-`SQL Server`
+`C#` `.NET` `ASP.NET Core Web API` `Entity Framework Core` `REST APIs` `JWT Authentication` `SQL Server`
 
 ### Tools
 
 `Git` `GitHub` `Visual Studio` `VS Code` `Postman`
-
-## 📌 Featured Projects
-
-### 🌿 Drift & Bloom
-
-A full-stack e-commerce platform built with **React.js and ASP.NET Core Web API**.
-
-**Highlights:**
-
-* Clean Architecture
-* JWT Authentication & Authorization
-* Product & Category Management
-* Shopping Cart & Checkout
-* Order Management
-* Stock Validation
-* Admin Dashboard
-* SQL Server & Entity Framework Core
-
-### 🛍️ React E-Commerce
-
-A responsive e-commerce frontend built with **React.js and Tailwind CSS**, featuring product browsing, cart management, and a modern responsive UI.
-
-### 🏋️ Gym Exercises App
-
-A React application for discovering and exploring gym exercises using an external API, with a responsive interface built using **React, Material UI, and Tailwind CSS**.
-
-## 📚 Currently Learning
 
 I'm currently focusing on becoming a stronger **Full-Stack Developer** by improving my knowledge of:
 
@@ -74,7 +43,7 @@ I'm currently focusing on becoming a stronger **Full-Stack Developer** by improv
 
 **GitHub:** [AhmedTarek-CMD](https://github.com/AhmedTarek-CMD)
 
-**LinkedIn:** [Ahmed Tarek]((https://www.linkedin.com/in/ahmed-tarek-a06341322/))
+**LinkedIn:** [Ahmed Tarek](https://www.linkedin.com/in/ahmed-tarek-a06341322/)
 
 ---
 
